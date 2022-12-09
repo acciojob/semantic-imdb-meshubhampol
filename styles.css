@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+* {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    margin-left: -30px;
+}
